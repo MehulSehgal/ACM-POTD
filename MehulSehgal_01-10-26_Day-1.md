@@ -15,4 +15,4 @@ for r in range(n):
             max_c = max(max_c, c)
 for r in range(min_r, max_r + 1):
     print(grid[r][min_c:max_c + 1])
-<img width="1470" height="832" alt="Screenshot 2026-10-01 at 1 21 42 PM" src="https://github.com/user-attachments/assets/9d9c2c5b-8a2c-444f-9374-8a9f78296d12" />
+<img width="1133" height="255" alt="Screenshot 2026-10-01 at 1 29 33 PM" src="https://github.com/user-attachments/assets/ecb8d81b-6aa8-474f-9abc-f35277e79094" />
