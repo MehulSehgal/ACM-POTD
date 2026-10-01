@@ -1,3 +1,6 @@
+## Problem link
+https://codeforces.com/problemset/problem/14/A
+
 ## Description
 My approach here was pretty straightforward. I just scanned through the whole grid to find the extreme top, bottom, left, and right boundaries where a star (`*`) appears. 
 Once I had those four edges, I just used basic string slicing to cut out and print the smallest possible rectangle containing all of them.
