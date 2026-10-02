@@ -1,3 +1,12 @@
+## Problem link
+https://codeforces.com/problemset/problem/134/A
+## Description
+My approach for solving this problem is to first simplify the math to avoid decimals, reducing the average formula down to simply checking if an element multiplied by the array size equals the total sum.
+I start by looping through the array once to calculate the total sum of all elements, keeping it in a larger integer variable to prevent overflow.
+Then, I iterate through the array a second time to check if the current element satisfies that simplified equation.
+Whenever I find a match, I save its 1-based index to a list and finally print out the total count of valid elements followed by those indices.
+## Code
+```cpp
 #include <iostream>
 #include <vector>
 
@@ -34,6 +43,7 @@ int main() {
             cout << " ";
         }
     }
+
     
     cout << "\n";
 
