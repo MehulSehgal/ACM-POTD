@@ -49,5 +49,6 @@ int main() {
     return 0;
 }
 ```
+## Accepted Solution
 <img width="1211" height="171" alt="Screenshot 2026-10-02 at 12 37 36 PM" src="https://github.com/user-attachments/assets/e8acff67-35db-481f-8c08-19da9777e7a1" />
 
