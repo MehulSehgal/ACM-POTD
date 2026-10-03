@@ -34,4 +34,7 @@ int main() {
     
     return 0;
 }
-'''
+```
+## Submission Result
+<img width="1211" height="171" alt="Screenshot 2026-10-03 at 1 10 19 PM" src="https://github.com/user-attachments/assets/55ee8162-72e1-4c68-b6a5-fa449106719a" />
+
