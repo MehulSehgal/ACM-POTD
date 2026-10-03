@@ -8,33 +8,25 @@ Space Complexity: O(1) as the memory footprint is limited to a few primitive int
 ## Code
 ```cpp
 #include <iostream>
-
 using namespace std;
-
 int main() {
     int h, m, a;
     char c;
     cin >> h >> c >> m;
     cin >> a;
-    
     int total_minutes = h * 60 + m + a;
-    
     int final_h = (total_minutes / 60) % 24;
     int final_m = total_minutes % 60;
-    
     if (final_h < 10) {
         cout << "0";
     }
     cout << final_h << ":";
-    
     if (final_m < 10) {
         cout << "0";
     }
     cout << final_m << "\n";
-    
     return 0;
 }
 ```
 ## Submission Result
 <img width="1211" height="171" alt="Screenshot 2026-10-03 at 1 10 19 PM" src="https://github.com/user-attachments/assets/55ee8162-72e1-4c68-b6a5-fa449106719a" />
-
