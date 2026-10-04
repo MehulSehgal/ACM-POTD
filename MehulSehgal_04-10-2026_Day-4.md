@@ -35,3 +35,5 @@ int main() {
     return 0;
 }
 ```
+## Submission Result
+<img width="1194" height="118" alt="Screenshot 2026-10-04 at 1 05 29 PM" src="https://github.com/user-attachments/assets/636d626c-b4ea-4fe1-a1df-845106f2ba42" />
