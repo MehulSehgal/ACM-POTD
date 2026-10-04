@@ -12,24 +12,16 @@ using namespace std;
 int main() {
     int n;
     cin >> n;
-    
     int min_days = (n / 7) * 2;
     int max_days = (n / 7) * 2;
-    
     int rem = n % 7;
-    
     if (rem == 6) {
-        min_days++;
-    }
-    
+        min_days++;}
     if (rem <= 2) {
         max_days += rem;
     } else {
-        max_days += 2;
-    }
-    
+        max_days += 2;}
     cout << min_days << " " << max_days << "\n";
-    
     return 0;
 }
 ```
