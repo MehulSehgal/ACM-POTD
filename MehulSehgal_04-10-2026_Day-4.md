@@ -8,9 +8,7 @@ To get the absolute minimum, I assumed the year starts on a Monday so those left
 ## Code
 ```cpp
 #include <iostream>
-
 using namespace std;
-
 int main() {
     int n;
     cin >> n;
