@@ -20,3 +20,5 @@ elif abs(x1 - x2) == abs(y1 - y2):
 else:
     print(-1)
 ```
+## Submission Result
+<img width="1243" height="125" alt="Screenshot 2026-10-06 at 7 35 07 PM" src="https://github.com/user-attachments/assets/993c99f0-ca85-4fb6-9b5b-a407e24b22c7" />
