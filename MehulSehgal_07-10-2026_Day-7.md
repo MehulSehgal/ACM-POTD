@@ -28,3 +28,4 @@ int main() {
 }
 ```
 ## Submission Result
+<img width="1226" height="112" alt="Screenshot 2026-10-07 at 8 19 36 PM" src="https://github.com/user-attachments/assets/3c7203c4-b31a-4976-b424-d3fb94636a72" />
