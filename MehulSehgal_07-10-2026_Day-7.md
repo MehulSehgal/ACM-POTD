@@ -21,8 +21,7 @@ int main() {
     cin >> a >> b;
     int years = 0;
     for (int i = a - 1; i < b - 1; i++) {
-        years += d[i];
-    }
+        years += d[i];}
     cout << years << "\n";
     return 0;
 }
