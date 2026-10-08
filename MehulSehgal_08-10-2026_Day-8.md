@@ -47,4 +47,5 @@ int main() {
     return 0;
 }
 ## Submission Result
-<img width="1226" height="122" alt="Screenshot 2026-10-08 at 9 56 57 AM" src="https://github.com/user-attachments/assets/dbbac662-e3c2-40cc-9632-640e6cd8db5b" />
+<img width="1226" height="122" alt="Screenshot 2026-10-08 at 9 57 53 AM" src="https://github.com/user-attachments/assets/3d4235dc-c271-4090-b341-7180ab29ce1f" />
+
